@@ -165,6 +165,7 @@ dependencies {
 
     implementation files("libs/tfmg-1.2.0.jar")
     implementation files("libs/Chemica-0.5.0-1.21.1.jar")
+    implementation files("libs/radioactive-3.7.2-neoforge-1.21.1.jar")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
