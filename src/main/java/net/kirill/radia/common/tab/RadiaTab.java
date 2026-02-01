@@ -21,7 +21,10 @@ public class RadiaTab {
             .displayItems((itemDisplayParameters, output) -> {
                 output.accept(RadiaItems.PITCHBLENDE);
                 output.accept(RadiaItems.BOTRYOIDAL_PITCHBLENDE);
+                output.accept(RadiaItems.CRUSHED_PITCHBLENDE);
+                output.accept(RadiaItems.PITCHBLENDE_POWDER);
                 output.accept(RadiaBlocks.PITCHBLENDE_ORE);
+                output.accept(RadiaBlocks.RAW_PITCHBLENDE_BLOCK);
             })
             .build());
 

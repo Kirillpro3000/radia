@@ -11,6 +11,8 @@ public class RadiaItems {
 
     public static final DeferredItem<Item> PITCHBLENDE = ITEMS.register("pitchblende", () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> BOTRYOIDAL_PITCHBLENDE = ITEMS.register("botryoidal_pitchblende", () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> CRUSHED_PITCHBLENDE = ITEMS.register("crushed_pitchblende", () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> PITCHBLENDE_POWDER = ITEMS.register("pitchblende_powder", () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

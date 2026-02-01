@@ -1,8 +1,11 @@
 {
   "item.radia.pitchblende": "Pitchblende",
   "item.radia.botryoidal_pitchblende": "Botryoidal Pitchblende",
+  "item.radia.crushed_pitchblende": "Crushed Pitchblende",
+  "item.radia.pitchblende_powder": "Pitchblende Powder",
 
   "block.radia.pitchblende_ore": "Pitchblende Ore",
+  "block.radia.raw_pitchblende_block": "Raw Pitchblende Block",
 
   "creativetab.radia.radia_tab": "Radia tab"
 }
