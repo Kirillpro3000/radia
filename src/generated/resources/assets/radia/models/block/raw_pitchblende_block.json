@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "radia:block/uranium/pitchblende_ore"
+    "all": "radia:block/raw_pitchblende_block"
   }
 }
